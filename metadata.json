@@ -1,5 +1,13 @@
 {
   "name": "CRONK",
   "symbol": "CRK",
-  "image": "https://raw.githubusercontent.com/aljonb/metadata/c9682378a43c311a6e60e8c68898c7497fc6903f/Untitled%20design.jpg"
+  "uri": "https://raw.githubusercontent.com/aljonb/metadata/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "YourCreatorAddressHere",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
